@@ -1,15 +1,18 @@
 
 
+
 <p align="center">
   <a href="https://flutter.io/">
     <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Contact Card</h3>
-  <div style="text-align:center">
-    <img src="https://github.com/wesleyschneider/flutter-contact-card/blob/main/images/example.gif" style="text-align: center;"  />
-  </div>
 </p>
+
+<p align="center">
+  <img src="https://github.com/wesleyschneider/flutter-contact-card/blob/main/images/example.gif" style="text-align: center;"  />
+</p>
+
 
 ## Copyright and license
 

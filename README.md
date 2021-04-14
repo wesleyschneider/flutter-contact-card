@@ -16,4 +16,4 @@
 
 ## Copyright and license
 
-Code copyright 2021 the author. Code released under the [MIT License](https://github.com/Ismaestro/flutter-example-app/blob/master/LICENSE).
+Code copyright 2021 the author. Code released under the [MIT License](https://github.com/wesleyschneider/flutter-contact-card/blob/main/LICENSE).
